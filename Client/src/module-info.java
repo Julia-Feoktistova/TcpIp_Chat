@@ -1,0 +1,3 @@
+module clientpack {
+    exports clientpack;
+}
